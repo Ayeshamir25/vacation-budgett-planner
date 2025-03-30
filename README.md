@@ -1,2 +1,15 @@
-# vacation-budgett-planner
-Streamlit app to track travel expenses with interactive charts. Features: budget tracking, spending analytics, dark/light mode.  Python Streamlit Pandas  Run: streamlit run Vacation-Budget-Planner.py
+📍 Title: Vacation Budget Planner
+📌 Tagline: A Streamlit web app to plan and visualize travel expenses interactively.
+
+🔹 Key Features:
+
+📊 Budget Tracking: Set a trip budget and log expenses by category (flights, hotels, food, etc.).
+
+📈 Visual Analytics: Interactive charts (Altair/Matplotlib) to monitor spending trends.
+
+🌙 Dark/Light Mode: User-friendly theme toggle.
+
+📅 Date-Based Planning: Allocate funds by day or activity.
+
+🚀 Tech Stack:
+Python · Streamlit · Pandas · Altair · Matplotlib
